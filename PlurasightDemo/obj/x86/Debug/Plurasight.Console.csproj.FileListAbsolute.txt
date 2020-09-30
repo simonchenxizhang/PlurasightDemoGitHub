@@ -1,0 +1,30 @@
+C:\Users\simonz\source\repos\PlurasightDemo\PlurasightDemo\bin\Debug\PlurasightDemo.exe.config
+C:\Users\simonz\source\repos\PlurasightDemo\PlurasightDemo\bin\Debug\PlurasightDemo.exe
+C:\Users\simonz\source\repos\PlurasightDemo\PlurasightDemo\bin\Debug\PlurasightDemo.pdb
+C:\Users\simonz\source\repos\PlurasightDemo\PlurasightDemo\obj\x86\Debug\Workflow1.g.xaml
+C:\Users\simonz\source\repos\PlurasightDemo\PlurasightDemo\obj\x86\Debug\PlurasightDemo_Workflow1_BeforeInitializeComponentHelper.txt
+C:\Users\simonz\source\repos\PlurasightDemo\PlurasightDemo\obj\x86\Debug\_PlurasightDemo.g.cs
+C:\Users\simonz\source\repos\PlurasightDemo\PlurasightDemo\obj\x86\Debug\Workflow1.g.cs
+C:\Users\simonz\source\repos\PlurasightDemo\PlurasightDemo\obj\x86\Debug\PlurasightDemo_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\simonz\source\repos\PlurasightDemo\PlurasightDemo\obj\x86\Debug\Plurasight.Console.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\simonz\source\repos\PlurasightDemo\PlurasightDemo\obj\x86\Debug\Plurasight.Console.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\simonz\source\repos\PlurasightDemo\PlurasightDemo\obj\x86\Debug\PlurasightDemo.dll
+C:\Users\simonz\source\repos\PlurasightDemo\PlurasightDemo\obj\x86\Debug\PlurasightDemo.exe
+C:\Users\simonz\source\repos\PlurasightDemo\PlurasightDemo\obj\x86\Debug\PlurasightDemo.pdb
+C:\Users\simonz\source\repos\PlurasightDemo\PlurasightDemo\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+C:\Users\simonz\source\repos\PlurasightDemo\PlurasightDemo\obj\x86\Debug\Plurasight.Console.csproj.CoreCompileInputs.cache
+F:\Simon\Pluralsight Projects\PlurasightDemo\PlurasightDemo\bin\Debug\PlurasightDemo.exe.config
+F:\Simon\Pluralsight Projects\PlurasightDemo\PlurasightDemo\bin\Debug\PlurasightDemo.exe
+F:\Simon\Pluralsight Projects\PlurasightDemo\PlurasightDemo\bin\Debug\PlurasightDemo.pdb
+F:\Simon\Pluralsight Projects\PlurasightDemo\PlurasightDemo\obj\x86\Debug\Plurasight.Console.csprojAssemblyReference.cache
+F:\Simon\Pluralsight Projects\PlurasightDemo\PlurasightDemo\obj\x86\Debug\Workflow1.g.xaml
+F:\Simon\Pluralsight Projects\PlurasightDemo\PlurasightDemo\obj\x86\Debug\PlurasightDemo_Workflow1_BeforeInitializeComponentHelper.txt
+F:\Simon\Pluralsight Projects\PlurasightDemo\PlurasightDemo\obj\x86\Debug\_PlurasightDemo.g.cs
+F:\Simon\Pluralsight Projects\PlurasightDemo\PlurasightDemo\obj\x86\Debug\Workflow1.g.cs
+F:\Simon\Pluralsight Projects\PlurasightDemo\PlurasightDemo\obj\x86\Debug\PlurasightDemo_Workflow1_BeforeInitializeComponentHelper.cs
+F:\Simon\Pluralsight Projects\PlurasightDemo\PlurasightDemo\obj\x86\Debug\Plurasight.Console.csproj.XamlGeneratedCodeFileListAbsolute.txt
+F:\Simon\Pluralsight Projects\PlurasightDemo\PlurasightDemo\obj\x86\Debug\Plurasight.Console.csproj.XamlGeneratedXamlFileListAbsolute.txt
+F:\Simon\Pluralsight Projects\PlurasightDemo\PlurasightDemo\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\PlurasightDemo\obj\x86\Debug\Plurasight.Console.csproj.CoreCompileInputs.cache
+F:\Simon\Pluralsight Projects\PlurasightDemo\PlurasightDemo\obj\x86\Debug\PlurasightDemo.exe
+F:\Simon\Pluralsight Projects\PlurasightDemo\PlurasightDemo\obj\x86\Debug\PlurasightDemo.pdb

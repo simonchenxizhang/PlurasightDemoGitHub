@@ -1,0 +1,14 @@
+﻿@model Plurasight.CommonLibraries.Models.SubscribeModel
+
+@{
+    ViewBag.Title = "Subscribe";
+}
+
+<h2>Subscribe</h2>
+
+@using (Html.BeginForm("Subscribe", "Home", FormMethod.Post))
+{
+    @Html.TextBoxFor(model => model.Email)
+    @Html.ValidationMessageFor(model => model.Email)
+    <button type="submit">Subscribe</button>
+}

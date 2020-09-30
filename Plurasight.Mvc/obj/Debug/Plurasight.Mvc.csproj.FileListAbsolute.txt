@@ -1,0 +1,184 @@
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\Plurasight.Mvc.dll.config
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\Plurasight.Mvc.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\Plurasight.Mvc.pdb
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\csc.exe
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\csc.exe.config
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\csc.rsp
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\csi.exe
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\csi.exe.config
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\csi.rsp
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.AppContext.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Console.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.IO.Compression.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Net.Http.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Net.Sockets.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.ValueTuple.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\vbc.exe
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\vbc.exe.config
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\vbc.rsp
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\Antlr3.Runtime.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\Newtonsoft.Json.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Helpers.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Mvc.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Optimization.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Razor.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\System.Web.WebPages.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\WebGrease.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Helpers.xml
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Mvc.xml
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Optimization.xml
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Razor.xml
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\System.Web.WebPages.xml
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\Newtonsoft.Json.xml
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\Antlr3.Runtime.pdb
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\obj\Debug\Plurasight.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\obj\Debug\Plurasight.Mvc.csproj.CopyComplete
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\obj\Debug\Plurasight.Mvc.dll
+C:\Users\simonz\source\repos\PlurasightDemo\Plurasight.Mvc\obj\Debug\Plurasight.Mvc.pdb
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Plurasight.Mvc.dll.config
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Plurasight.Mvc.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Plurasight.Mvc.pdb
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\csc.exe
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\csc.exe.config
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\csc.rsp
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\csi.exe
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\csi.exe.config
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\csi.rsp
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.AppContext.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Collections.Immutable.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Console.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Globalization.Calendars.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.IO.Compression.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.IO.FileSystem.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Net.Http.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Net.Sockets.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Reflection.Metadata.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.ValueTuple.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Xml.XPath.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\vbc.exe
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\vbc.exe.config
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\vbc.rsp
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\VBCSCompiler.exe
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\roslyn\VBCSCompiler.exe.config
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Antlr3.Runtime.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Microsoft.Web.Infrastructure.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Newtonsoft.Json.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Helpers.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Mvc.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Optimization.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Razor.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Web.WebPages.Deployment.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Web.WebPages.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Web.WebPages.Razor.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\WebGrease.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Helpers.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Mvc.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Optimization.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Razor.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Web.WebPages.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Web.WebPages.Deployment.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Web.WebPages.Razor.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Newtonsoft.Json.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Antlr3.Runtime.pdb
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\obj\Debug\Plurasight.Mvc.csprojAssemblyReference.cache
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\obj\Debug\Plurasight.Mvc.csproj.CoreCompileInputs.cache
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\obj\Debug\Plurasight.Mvc.csproj.CopyComplete
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\obj\Debug\Plurasight.Mvc.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\obj\Debug\Plurasight.Mvc.pdb
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Plurasight.CommonLibraries.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Plurasight.CommonLibraries.pdb
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Autofac.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Autofac.Integration.Mvc.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Autofac.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Autofac.Integration.Mvc.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Net.Http.Formatting.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Http.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Http.WebHost.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Net.Http.Formatting.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Http.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Web.Http.WebHost.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Autofac.Integration.WebApi.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Threading.Tasks.Extensions.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Autofac.pdb
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Autofac.Integration.WebApi.pdb
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Autofac.Integration.WebApi.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\System.Threading.Tasks.Extensions.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\EntityFramework.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\EntityFramework.SqlServer.dll
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\Plurasight.CommonLibraries.dll.config
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\EntityFramework.xml
+F:\Simon\Pluralsight Projects\PlurasightDemo\Plurasight.Mvc\bin\EntityFramework.SqlServer.xml
