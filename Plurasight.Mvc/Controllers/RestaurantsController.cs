@@ -73,9 +73,26 @@ namespace Plurasight.Mvc.Controllers
             }
             return View(restaurant);
         }
-        public ActionResult Delete() 
+
+        [HttpGet]
+        public ActionResult Delete(int id) 
         {
-            return View();
+            var model = db.Get(id);
+            if (model == null)
+            {
+                return View("NotFound");
+            }
+            else {
+                return View(model);
+            }
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Delete(int id, FormCollection form)
+        {
+            db.Delete(id);
+            return RedirectToAction("Index");
         }
     }
 }

@@ -40,7 +40,15 @@ namespace Plurasight.CommonLibraries.Services
             if (existing != null) 
             {
                 existing.Name = restaurant.Name;
-                existing.Cuisine = existing.Cuisine;
+                existing.Cuisine = restaurant.Cuisine;
+            }
+        }
+
+        public void Delete(int id)
+        {
+            var restaurant = Get(id);
+            if (restaurant != null) {
+                restaurants.Remove(restaurant);
             }
         }
     }

@@ -10,3 +10,17 @@ F:\Simon\Pluralsight Projects\PlurasightDemo\CommonLibraries\Plurasight.CommonLi
 F:\Simon\Pluralsight Projects\PlurasightDemo\CommonLibraries\Plurasight.CommonLibraries\bin\Debug\EntityFramework.xml
 F:\Simon\Pluralsight Projects\PlurasightDemo\CommonLibraries\Plurasight.CommonLibraries\bin\Debug\EntityFramework.SqlServer.xml
 F:\Simon\Pluralsight Projects\PlurasightDemo\CommonLibraries\Plurasight.CommonLibraries\obj\Debug\Plurasight.CommonLibraries.csproj.CopyComplete
+F:\Simon\Pluralsight Projects\PlurasightDemoGitHub\CommonLibraries\Plurasight.CommonLibraries\bin\Debug\Plurasight.CommonLibraries.dll.config
+F:\Simon\Pluralsight Projects\PlurasightDemoGitHub\CommonLibraries\Plurasight.CommonLibraries\bin\Debug\Plurasight.CommonLibraries.dll
+F:\Simon\Pluralsight Projects\PlurasightDemoGitHub\CommonLibraries\Plurasight.CommonLibraries\bin\Debug\Plurasight.CommonLibraries.pdb
+F:\Simon\Pluralsight Projects\PlurasightDemoGitHub\CommonLibraries\Plurasight.CommonLibraries\bin\Debug\EntityFramework.dll
+F:\Simon\Pluralsight Projects\PlurasightDemoGitHub\CommonLibraries\Plurasight.CommonLibraries\bin\Debug\EntityFramework.SqlServer.dll
+F:\Simon\Pluralsight Projects\PlurasightDemoGitHub\CommonLibraries\Plurasight.CommonLibraries\bin\Debug\EntityFramework.xml
+F:\Simon\Pluralsight Projects\PlurasightDemoGitHub\CommonLibraries\Plurasight.CommonLibraries\bin\Debug\EntityFramework.SqlServer.xml
+F:\Simon\Pluralsight Projects\PlurasightDemoGitHub\CommonLibraries\Plurasight.CommonLibraries\obj\Debug\Plurasight.CommonLibraries.csproj.CoreCompileInputs.cache
+F:\Simon\Pluralsight Projects\PlurasightDemoGitHub\CommonLibraries\Plurasight.CommonLibraries\obj\Debug\Plurasight.CommonLibraries.csproj.CopyComplete
+F:\Simon\Pluralsight Projects\PlurasightDemoGitHub\CommonLibraries\Plurasight.CommonLibraries\obj\Debug\Plurasight.CommonLibraries.dll
+F:\Simon\Pluralsight Projects\PlurasightDemoGitHub\CommonLibraries\Plurasight.CommonLibraries\obj\Debug\Plurasight.CommonLibraries.pdb
+F:\Simon\Pluralsight Projects\PlurasightDemoGitHub\CommonLibraries\Plurasight.CommonLibraries\obj\Debug\Plurasight.CommonLibraries.csprojAssemblyReference.cache
+F:\Simon\Pluralsight Projects\PlurasightDemoGitHub\CommonLibraries\Plurasight.CommonLibraries\obj\Debug\Plurasight.CommonLibraries.Migrations.init.resources
+F:\Simon\Pluralsight Projects\PlurasightDemoGitHub\CommonLibraries\Plurasight.CommonLibraries\obj\Debug\Plurasight.CommonLibraries.csproj.GenerateResource.cache
