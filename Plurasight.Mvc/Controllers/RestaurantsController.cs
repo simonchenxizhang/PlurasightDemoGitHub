@@ -69,6 +69,7 @@ namespace Plurasight.Mvc.Controllers
             if (ModelState.IsValid) 
             {
                 db.Update(restaurant);
+                TempData["Message"] = "You have saved the data";
                 return RedirectToAction("Details", new { id = restaurant.Id });
             }
             return View(restaurant);
